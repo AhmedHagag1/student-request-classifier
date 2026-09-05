@@ -1,5 +1,7 @@
 # Student Request Classifier
 
+[![Repository checks](https://github.com/AhmedHagag1/student-request-classifier/actions/workflows/repository-checks.yml/badge.svg)](https://github.com/AhmedHagag1/student-request-classifier/actions/workflows/repository-checks.yml)
+
 Graduation project by Ahmed Haggag: a bilingual Streamlit application that classifies student requests into nine categories using multilingual DistilBERT.
 
 **Status:** educational prototype. The source has been reviewed for portfolio preparation; full application execution has not been verified in this review environment.
@@ -44,6 +46,16 @@ python -m src.evaluate
 ```
 
 Training is optional when the original weights are available. These scripts overwrite report files; run them in a working copy. The baseline script replaces the comparison CSV, so run it before the transformer training script if generating both sets of results.
+
+## Repository checks
+
+The lightweight CI check uses only Python's standard library. It validates the expected dataset columns, row counts, label/language sets, uniqueness of the small test set, and the presence of essential portfolio files:
+
+```bash
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+This check protects repository structure and data contracts; it does not reproduce model training or the reported metrics.
 
 ## Data and results: limitations
 
