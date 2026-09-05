@@ -59,7 +59,7 @@ This check protects repository structure and data contracts; it does not reprodu
 
 ## Data and results: limitations
 
-The supplied dataset contains 6,075 rows: 2,700 Russian, 2,700 English and 675 mixed-language rows. Each of the nine categories has 675 rows. Data generation code is included. The separate file named `real_test.csv` contains 54 examples (27 RU and 27 EN); its filename does not establish that these are independently collected real-world requests.
+The supplied dataset contains 6,075 rows: 2,700 Russian, 2,700 English and 675 mixed-language rows. Each of the nine categories has 675 rows. The project includes the generator and templated example phrases used to construct the dataset; these files are not presented as exported university records or as a collection of identifiable student submissions. The separate file named `real_test.csv` contains 54 generic examples (27 RU and 27 EN); its filename does not establish that these are independently collected real-world requests.
 
 | Model | Reported held-out accuracy | Reported 54-example accuracy |
 | --- | ---: | ---: |
