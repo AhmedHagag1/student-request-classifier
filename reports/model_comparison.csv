@@ -1,0 +1,5 @@
+﻿model,test_accuracy,test_precision,test_recall,test_f1_score,real_test_accuracy,real_test_f1_score,train_time_sec,inference_time_sec
+TF-IDF + Logistic Regression,0.9959,0.9959,0.9959,0.9959,0.9815,0.9814,0.6621,0.025
+TF-IDF + Linear SVM,0.9959,0.9959,0.9959,0.9959,0.9815,0.9814,0.326,0.0383
+TF-IDF + Naive Bayes,0.9868,0.9869,0.9868,0.9868,0.9815,0.9814,0.1772,0.0701
+Multilingual DistilBERT,0.9926,0.9928,0.9926,0.9926,0.9815,0.9814,12015.6822,312.2011

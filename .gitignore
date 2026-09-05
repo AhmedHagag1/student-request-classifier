@@ -1,0 +1,23 @@
+# Local environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+*.jks
+*.keystore
+# Model weights: distribute separately
+*.safetensors
+*.pt
+*.pth
+*.bin

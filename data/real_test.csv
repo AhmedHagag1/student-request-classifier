@@ -1,0 +1,55 @@
+text,label,language
+Не могу зайти в личный кабинет уже второй день,IT-проблемы,ru
+Сайт универа постоянно лагает и не открывает страницу,IT-проблемы,ru
+login error когда пытаюсь открыть student portal,IT-проблемы,ru
+The university portal is down and I cannot submit my homework,IT-проблемы,en
+My student account is blocked and I cannot reset the password,IT-проблемы,en
+The website works too slowly and crashes every time,IT-проблемы,en
+Не получается оплатить учебу через портал,Финансы,ru
+Деньги списали но квитанция не появилась,Финансы,ru
+Оплата за общежитие не подтверждается,Финансы,ru
+I paid my tuition yesterday but the receipt is missing,Финансы,en
+The payment was charged but the system still says unpaid,Финансы,en
+I cannot pay for the dormitory online,Финансы,en
+Не вижу оценки после экзамена,Экзамены,ru
+Результаты экзамена пропали из системы,Экзамены,ru
+Мне поставили неправильную оценку за тест,Экзамены,ru
+My exam results are not visible in the system,Экзамены,en
+The grade for my final exam is wrong,Экзамены,en
+I cannot access my exam information,Экзамены,en
+Не могу зарегистрироваться на предмет,Регистрация,ru
+Регистрация на экзамен не открывается,Регистрация,ru
+Система не дает выбрать дисциплину,Регистрация,ru
+I cannot register for the course,Регистрация,en
+The system does not allow me to enroll in the subject,Регистрация,en
+Exam registration is not available for me,Регистрация,en
+Преподаватель не отвечает уже неделю,Преподаватели,ru
+Препод не проверяет задания и игнорирует сообщения,Преподаватели,ru
+Не согласен с оценкой преподавателя,Преподаватели,ru
+The teacher does not reply to my messages,Преподаватели,en
+My teacher did not upload the lecture materials,Преподаватели,en
+I want to complain about unfair grading,Преподаватели,en
+В расписании указана неправильная аудитория,Расписание,ru
+Пара перенесена но уведомления не было,Расписание,ru
+Не могу найти где будет занятие,Расписание,ru
+The schedule shows the wrong classroom,Расписание,en
+The class time changed without notification,Расписание,en
+I cannot find today’s class in the schedule,Расписание,en
+Не могу скачать справку об обучении,Документы,ru
+Заявление на документ не принимается системой,Документы,ru
+Статус справки не обновляется,Документы,ru
+I cannot download my academic certificate,Документы,en
+The document request is still not processed,Документы,en
+The system does not accept my application for documents,Документы,en
+Не могу продлить визу и не знаю куда обратиться,Иностранные студенты,ru
+Нет информации на английском для иностранных студентов,Иностранные студенты,ru
+Миграционные документы не принимают,Иностранные студенты,ru
+I need help with my visa extension,Иностранные студенты,en
+There is no English information for international students,Иностранные студенты,en
+My migration documents were rejected,Иностранные студенты,en
+Не работает электронная библиотека,Библиотека,ru
+Не могу найти книгу в библиотечной системе,Библиотека,ru
+Нет доступа к учебным материалам,Библиотека,ru
+I cannot access the digital library,Библиотека,en
+The book I need is not available,Библиотека,en
+I cannot download materials from the library system,Библиотека,en
